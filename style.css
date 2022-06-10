@@ -1,14 +1,43 @@
 /* STYLE SECTIONING TAGS */
 body {
- background-color: lightcyan; 
+ color: #7289da;
+  background-color: #2c2f33;
 }
 
 /* STYLE TEXT */
 
 h1 {
-  color: navy;
+  color: #7289da;
+  background-color: #2c2f33;
 }
 
-/* STYLE IMAGES */
+h6 {
+  color: #7289da;
+  background-color: #2c2f33;
+}
 
+  link {
+  color: #7289da;
+  background-color: #2c2f33;
+  }
+/* STYLE IMAGES */
+  img: {
+    color: #7289da;
+  background-color: #2c2f33;
+  }
+  iframe: {
+    color: #7289da;
+  background-color: #2c2f33;
+  }
 /* STYLE NAV BAR */
+button {
+  background-color: #2c2f33;
+  color: #7289da;
+  border: 0px;
+}
+
+.navbar {
+    border-radius: 10%;
+    border: 1px solid;
+    background-color: grey;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);  
